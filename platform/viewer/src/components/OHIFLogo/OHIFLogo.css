@@ -21,6 +21,7 @@
 }
 
 .header-logo-image {
+  color: var(--text-primary-color);
   height: 30px;
   width: 30px;
   font-size: 30px;

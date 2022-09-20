@@ -9,7 +9,7 @@ function OHIFLogo() {
       target="_blank"
       rel="noopener noreferrer"
       className="header-brand"
-      href="http://ohif.org"
+    // href="http://ohif.org"
     >
       <Icon name="ohif-logo" className="header-logo-image" />
       {/* Logo text would fit smaller displays at two lines:
@@ -17,9 +17,10 @@ function OHIFLogo() {
        * Open Health
        * Imaging Foundation
        *
-       * Or as `OHIF` on really small displays
+      //  * Or as `OHIF` on really small displays
        */}
-      <Icon name="ohif-text-logo" className="header-logo-text" />
+      MTA-MedView
+      {/* <Icon name="ohif-text-logo" className="header-logo-text" /> */}
     </a>
   );
 }
