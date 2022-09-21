@@ -77,7 +77,7 @@ function Header(props) {
           )}
 
           {children}
-          <a fontSize="14px">MTA-MedView</a>
+          {/* <a fontSize="14px">MTA-MedView</a> */}
           {hasLink && (
             <Link
               className="header-btn header-studyListLinkSection"

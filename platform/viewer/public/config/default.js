@@ -16,7 +16,7 @@ window.config = {
             background: 'url(../assets/favicon.png)',
             backgroundSize: 'contain',
             backgroundRepeat: 'no-repeat',
-            width: '75px',
+            width: '200px',
           },
         }
         // '                             MMTA'
